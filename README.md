@@ -9,11 +9,11 @@ Currently, two official plugins are available:
 
 
 
-Project Description:
-About the Project:
+# Project Description:
+**About the Project:**
 Evento is a versatile web application designed to enhance community engagement through a streamlined interface for discovering and participating in hackathons, workshops, and various events. With community forum services and comprehensive search and filter options, Evento provides a user-friendly experience for staying connected with the latest opportunities. This React-based app integrates Google authentication for secure login/logout and leverages Firebase for real-time data management, ensuring a seamless and interactive experience for all users.
 
-Technologies Used:
+**Technologies Used:**
 
 Languages: JavaScript
 Frameworks: React
